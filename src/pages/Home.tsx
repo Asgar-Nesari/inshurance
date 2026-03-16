@@ -964,7 +964,9 @@ const Home = () => {
                 >
                   <Link
                     to="/contact"
-                    onClick={()=>{scrollTo({top:0,behavior:"smooth"})}}
+                    onClick={() => {
+                      scrollTo({ top: 0, behavior: "smooth" });
+                    }}
                     className="group bg-yellow-400 text-slate-900 px-8 py-4 rounded-xl font-bold text-lg inline-flex items-center gap-3 shadow-lg hover:shadow-xl transition-all duration-300"
                   >
                     <Shield className="w-5 h-5" />
