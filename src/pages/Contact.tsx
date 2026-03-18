@@ -15,7 +15,7 @@ import {
   BookOpen,
 } from "lucide-react";
 import tashrif from "@/assets/images/tashrif.jpeg";
-import gouspak from "@/assets/images/gouswhite.jpeg";
+import gouspak from "@/assets/images/gouspakblue.png";
 
 // ── Data ──────────────────────────────────────────────────────────────────
 const teamMembers = [

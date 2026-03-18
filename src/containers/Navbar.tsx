@@ -283,7 +283,7 @@ export default function Navbar() {
                         Call Us Now
                       </p>
                       <p className="text-white font-bold text-sm group-hover:text-yellow-400 transition-colors duration-200">
-                        +91 98765 43210
+                        +91 9730097448
                       </p>
                     </div>
                   </a>
